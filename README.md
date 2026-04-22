@@ -112,6 +112,5 @@ ArciSpace is a complete platform that allows users to:
 ```bash
 git clone https://github.com/SamarZeinah/starter-Final-Project.git
 
-## 🌐 API
 
 Base URL:
